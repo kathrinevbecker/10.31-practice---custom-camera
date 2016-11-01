@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					D74860831DC8054E00C1F1F6 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 9V299RD2DU;
 						ProvisioningStyle = Automatic;
 					};
 					D74860971DC8054E00C1F1F6 = {
@@ -410,7 +411,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9V299RD2DU;
 				INFOPLIST_FILE = "10.31 practice - custom camera/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codepath.-0-31-practice---custom-camera";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9V299RD2DU;
 				INFOPLIST_FILE = "10.31 practice - custom camera/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codepath.-0-31-practice---custom-camera";
 				PRODUCT_NAME = "$(TARGET_NAME)";
